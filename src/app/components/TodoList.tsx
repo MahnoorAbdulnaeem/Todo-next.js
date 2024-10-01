@@ -42,7 +42,7 @@ const TodoList = () => {
    }
 
    return (
-      <div className="flex flex-col  min-h-screen "  style={{
+      <div className="flex flex-col  min-h-screen  text-black"  style={{
          backgroundImage: 'url("/image/1.jpg")',
          backgroundSize: 'cover',
          backgroundPosition: 'center',
